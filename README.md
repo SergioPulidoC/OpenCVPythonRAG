@@ -37,3 +37,16 @@ pip install -r requirements.txt
 ## Usage
 
 [Work in progress!]
+
+## Roadmap
+- [x] Basic setup and README
+- [ ] Documentation extraction
+- [ ] Embedding generation and storage
+- [ ] RAG pipeline implementation
+- [ ] Testing and deployment
+
+## Contribute
+Contributions are welcome! Feel free to submit a pull request or open an issue for discussion.
+
+## License
+This project is licensed under the MIT License. Check the [LICENSE](LICENSE) for more information.
