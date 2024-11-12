@@ -36,7 +36,6 @@ ipython==8.29.0
 ipywidgets==8.1.5
 jedi==0.19.1
 Jinja2==3.1.4
-joblib==1.1.1
 jsonpatch==1.33
 jsonpointer==3.0.0
 jupyter_client==8.6.3
@@ -77,7 +76,6 @@ nvidia-nvtx-cu12==12.4.127
 orjson==3.10.11
 packaging==24.2
 pandas==2.2.3
-pandas-profiling==3.2.0
 parso==0.8.4
 pexpect==4.9.0
 phik==0.12.4
